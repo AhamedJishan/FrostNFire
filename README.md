@@ -1,6 +1,6 @@
 <h2 style="font-size: 24px;">FROST N FIRE</h2>
 
-![Screenshot (54)](https://raw.githubusercontent.com/AhamedJishan/FrostNFire/main/assets/146475810/d2199aac-aea4-46ff-acd3-99c5a72cbbc3)
+![Screenshot (54)](https://github.com/AhamedJishan/FrostNFire/blob/main/Assets/Main/GameIcon.png)
 
 download link: https://danaiveone.itch.io/frost-n-fire
 
